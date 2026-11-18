@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../calculator_classes/calculator_classes.csproj" Id="8af75657-0cb6-48d6-ae0c-58cc0b0130b1" />
   <Project Path="calculator_v1.2.csproj" />
 </Solution>
